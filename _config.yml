@@ -4,34 +4,40 @@ url : "https://naye0ng.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : Balpreet Singh
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Nayeong Kim
+    username : Balpreet Singh Banga
     description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 01-08-2018
+        end : Present
+        experience : BCA
+      
     skills : 
       - skill : HTML5 & CSS
         value : 85  # Percent value
-        
+      - skill : Python
+        value : 70
+      - skill : C and C++
+        value : 90
+      - skill : JAVA
+        value : 70 
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
+    email:  balpreet.bangz1999@gmail.com
     linkedin:  # Full URL 
-    github: naye0ng
+    github: https://github.com/BALPREET1999
     gitlab: 
     bitbucket: 
     google_plus:
     twitter:
     youtube:
-    facebook:
-    instagram:
+    facebook: https://www.facebook.com/balpreet.singh.5437
+    instagram: https://www.instagram.com/bal._.preet
 
   # Disqus
   disqus_shortname :
