@@ -1,0 +1,40 @@
+I"f<p>This is an example of a post which includes code, quotes and backtick.</p>
+
+<p>you can easy to change style in <code class="highlighter-rouge">_utility.html</code>.</p>
+
+<p>A sample of the formatting follows.</p>
+
+<p><br /></p>
+
+<p>code, quotes and backtick를 포함하고 있는 게시물의 예입니다.</p>
+
+<p><code class="highlighter-rouge">_utility.html</code>에서 스타일을 변경할 수 있으며, 서식 샘플은 아래와 같습니다.</p>
+
+<p><br /></p>
+
+<h2>1. Code </h2>
+<p>You can add highlighting for code in <code class="highlighter-rouge">highlight.scss</code>.</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="c1"># test function
+</span><span class="k">def</span> <span class="nf">test</span> <span class="p">:</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">'hello world!'</span><span class="p">)</span></code></pre></figure>
+
+<p><br /></p>
+
+<h2>2. Quotes</h2>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html">&gt; Hello World, This is quotes!</code></pre></figure>
+
+<blockquote>
+  <p>Hello World, This is quotes!</p>
+</blockquote>
+
+<p><br /></p>
+
+<h2>3. `Backtick`</h2>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html">`Grape-Theme`</code></pre></figure>
+
+<p><code class="highlighter-rouge">Grape-Theme</code></p>
+
+:ET
